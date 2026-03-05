@@ -92,4 +92,5 @@ getCurrentImageOfTheDay();
 
 addSearchToHistory();
 
+
 };
